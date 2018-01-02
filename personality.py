@@ -7,7 +7,7 @@ import script as pi
 from watson_developer_cloud import PersonalityInsightsV2 as PersonalityInsights
 
 
-
+#does the heavy lifting
 def analyze(handle):
 
 	#The Twitter API credentials
